@@ -1,0 +1,3 @@
+---
+BUNDLE_PATH: "/home/vagrant/.apps/hir.github.io"
+BUNDLE_WITHOUT: "production"
