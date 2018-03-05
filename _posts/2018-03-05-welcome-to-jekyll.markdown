@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "hir.dot.jp"
 date:   2018-03-05 13:37:24 +0900
 categories: jekyll update
 ---
